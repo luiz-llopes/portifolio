@@ -1,0 +1,39 @@
+.imagem img{
+    width: 250;
+    height: 200;
+    border-radius: 25%;
+    object-fit: cover;
+}
+body{
+    text-align: center;
+    background-color: rgb(142, 137, 133);
+}
+.sobre{
+    background-color: rgb(23, 108, 70);
+}
+.interesses{
+    background-color: rgb(23, 108, 70);
+}
+
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2,p{
+    color: aliceblue;
+}
+.email{
+    background-color: rgb(23, 108, 70);
+}
+.github{
+    background-color:rgb(23, 108, 70);
+}
+.numero{
+    background-color: rgb(23, 108, 70);
+}
+.contatos img{
+    border-radius: 25%;
+    object-fit: cover;
+}
+.contatos{
+    background-color: rgb(23, 108, 70);
+}
